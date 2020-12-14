@@ -1,0 +1,12 @@
+body {
+  background-color: orangered;
+  align-items: center;
+  text-align: center;
+}
+
+.todo-box {
+  display: inline-block;
+  background-color: gainsboro;
+  width: 40%;
+  height: 600px;
+}
